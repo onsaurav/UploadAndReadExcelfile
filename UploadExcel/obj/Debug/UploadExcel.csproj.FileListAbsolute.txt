@@ -1,0 +1,10 @@
+F:\DNG Resources\Articles\ReadExcelfile\UploadExcel\UploadExcel\bin\UploadExcel.dll
+F:\DNG Resources\Articles\ReadExcelfile\UploadExcel\UploadExcel\bin\UploadExcel.pdb
+F:\DNG Resources\Articles\ReadExcelfile\UploadExcel\UploadExcel\obj\Debug\ResolveAssemblyReference.cache
+F:\DNG Resources\Articles\ReadExcelfile\UploadExcel\UploadExcel\obj\Debug\UploadExcel.dll
+F:\DNG Resources\Articles\ReadExcelfile\UploadExcel\UploadExcel\obj\Debug\UploadExcel.pdb
+C:\Users\KartikChandra\Desktop\UploadAndReadExcelfile\UploadExcel\bin\UploadExcel.dll
+C:\Users\KartikChandra\Desktop\UploadAndReadExcelfile\UploadExcel\bin\UploadExcel.pdb
+C:\Users\KartikChandra\Desktop\UploadAndReadExcelfile\UploadExcel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KartikChandra\Desktop\UploadAndReadExcelfile\UploadExcel\obj\Debug\UploadExcel.dll
+C:\Users\KartikChandra\Desktop\UploadAndReadExcelfile\UploadExcel\obj\Debug\UploadExcel.pdb
